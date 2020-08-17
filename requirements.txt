@@ -40,5 +40,5 @@ six==1.15.0               # via automat, cryptography, nltk, parsel, pyhamcrest,
 twisted==20.3.0           # via scrapy
 urllib3==1.25.10             # via requests
 w3lib==1.22.0             # via parsel, scrapy
-whitenoise==4.1.2
+whitenoise==5.2.0
 zope.interface==4.6.0     # via twisted
